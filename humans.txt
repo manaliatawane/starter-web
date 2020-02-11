@@ -23,3 +23,4 @@ adding imp notes on git stash
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, ML, AWS, GCP
+AWC SA
