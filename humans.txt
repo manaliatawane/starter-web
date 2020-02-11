@@ -8,6 +8,7 @@ again modifying
 doing some changes in local
 
 Hi,going to insert conflicts in my feature branch
+adding imp notes on git stash
 
 
 # TEAM
