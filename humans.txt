@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    tom & jerry
 
 # TECHNOLOGY COLOPHON
 
