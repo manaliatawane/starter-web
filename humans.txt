@@ -1,7 +1,11 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
+
 Hi, i am modifying file before rebase.
 again modifying
+
+Hi,going to insert conflicts in my feature branch
+
 # TEAM
 
     <name> tom jerry cartoon <twitter>
