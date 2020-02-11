@@ -5,3 +5,5 @@ This is readme file
 git advance part
 
 doing some more modifications here
+
+making chnages directly from github console
