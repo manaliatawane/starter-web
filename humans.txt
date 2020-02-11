@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> tom jerry <twitter>
+    <name> tom jerry cartoon <twitter>
 
 # THANKS
 
